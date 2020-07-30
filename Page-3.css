@@ -1,11 +1,11 @@
 .u-section-1 .u-sheet-1 {min-height: 981px}
 .u-section-1 .u-layout-wrap-1 {margin: 0 auto 0 0}
-.u-section-1 .u-image-1 {min-height: 717px; background-image: url("images/3.jpg"); background-position: 50% 50%}
+.u-section-1 .u-image-1 {min-height: 717px; background-image: url("images/uploaded/3.jpg"); background-position: 50% 50%}
 .u-section-1 .u-group-1 {min-height: 65px; margin-top: 652px; margin-right: auto; margin-left: 0}
 .u-section-1 .u-container-layout-2 {padding-left: 24px; padding-right: 20px}
 .u-section-1 .u-text-1 {font-weight: 600; margin: 0 2px 0 -2px}
 .u-section-1 .u-btn-1 {border-style: none; padding: 0}
-.u-section-1 .u-image-2 {min-height: 314px; background-image: url("images/57e8d34b4f52ae14f6da8c7dda793678153bdee757596c48702678d5964ac050b0_1280.jpg"); background-position: 50% 50%}
+.u-section-1 .u-image-2 {min-height: 314px; background-image: url("images/uploaded/57e8d34b4f52ae14f6da8c7dda793678153bdee757596c48702678d5964ac050b0_1280.jpg"); background-position: 50% 50%}
 .u-section-1 .u-layout-cell-3 {min-height: 447px}
 .u-section-1 .u-container-layout-4 {padding-right: 0}
 .u-section-1 .u-shape-1 {width: 13px; height: 274px; margin: 102px auto 0 0}
@@ -76,11 +76,11 @@
 .u-section-1 .u-container-layout-7 {padding-left: 15px; padding-right: 15px}
 .u-section-1 .u-text-3 {font-size: 2.25rem} }.u-section-2 .u-sheet-1 {min-height: 892px}
 .u-section-2 .u-layout-wrap-1 {margin: 80px auto -182px 0}
-.u-section-2 .u-image-1 {min-height: 762px; background-image: url("images/dining.jpg"); background-position: 50% 50%}
-.u-section-2 .u-image-2 {background-image: url("images/bed.jpg"); background-position: 50% 50%; min-height: 381px}
-.u-section-2 .u-image-3 {background-image: url("images/57e8d6464350af14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); background-position: 50% 50%; min-height: 381px}
-.u-section-2 .u-image-4 {background-image: url("images/52e4d2474256b108f5d084609629317e113fdce15b4c704c7c2c7ad59048cd50_1280.jpg"); background-position: 50% 50%; min-height: 381px}
-.u-section-2 .u-image-5 {min-height: 381px; background-image: url("images/54e1d2474f5baf14f6da8c7dda793678153bdee757596c48702678d5964ac050b0_1280.jpg"); background-position: 50% 50%} 
+.u-section-2 .u-image-1 {min-height: 762px; background-image: url("images/uploaded/dining.jpg"); background-position: 50% 50%}
+.u-section-2 .u-image-2 {background-image: url("images/uploaded/bed.jpg"); background-position: 50% 50%; min-height: 381px}
+.u-section-2 .u-image-3 {background-image: url("images/uploaded/57e8d6464350af14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); background-position: 50% 50%; min-height: 381px}
+.u-section-2 .u-image-4 {background-image: url("images/uploaded/52e4d2474256b108f5d084609629317e113fdce15b4c704c7c2c7ad59048cd50_1280.jpg"); background-position: 50% 50%; min-height: 381px}
+.u-section-2 .u-image-5 {min-height: 381px; background-image: url("images/uploaded/54e1d2474f5baf14f6da8c7dda793678153bdee757596c48702678d5964ac050b0_1280.jpg"); background-position: 50% 50%} 
 
 @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 721px}
 .u-section-2 .u-layout-wrap-1 {margin-bottom: -81px; margin-right: initial; margin-left: initial}
@@ -137,10 +137,10 @@
 
 @media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 277px} }.u-section-4 .u-sheet-1 {min-height: 1520px}
 .u-section-4 .u-layout-wrap-1 {margin: 0 auto 0 0}
-.u-section-4 .u-image-1 {background-image: url("images/54e4d5434954ab14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 818px; background-position: 50% 50%}
+.u-section-4 .u-image-1 {background-image: url("images/uploaded/54e4d5434954ab14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 818px; background-position: 50% 50%}
 .u-section-4 .u-btn-1 {border-style: none; background-image: none; animation-duration: 1000ms; margin: 0 auto 30px}
-.u-section-4 .u-image-2 {background-image: url("images/50e9d542485bb108f5d084609629317e113fdce15b4c704c7c2c7ad59044cd50_1280.jpg"); background-position: 50% 50%; min-height: 388px}
-.u-section-4 .u-image-3 {background-image: url("images/57e8d0424852ad14f6da8c7dda793678153bdee757596c48702678d5964acc50b0_1280.jpg"); background-position: 50% 50%; min-height: 388px}
+.u-section-4 .u-image-2 {background-image: url("images/uploaded/50e9d542485bb108f5d084609629317e113fdce15b4c704c7c2c7ad59044cd50_1280.jpg"); background-position: 50% 50%; min-height: 388px}
+.u-section-4 .u-image-3 {background-image: url("images/uploaded/57e8d0424852ad14f6da8c7dda793678153bdee757596c48702678d5964acc50b0_1280.jpg"); background-position: 50% 50%; min-height: 388px}
 .u-section-4 .u-layout-cell-4 {min-height: 430px; background-image: none}
 .u-section-4 .u-layout-cell-5 {min-height: 430px; background-image: none}
 .u-section-4 .u-container-layout-5 {padding-left: 20px}
@@ -226,9 +226,9 @@
 .u-section-6 .u-group-1 {width: 483px; min-height: 500px; margin: 42px auto 0}
 .u-section-6 .u-text-1 {font-size: 3rem; font-weight: 700; width: 363px; margin: 93px auto 0}
 .u-section-6 .u-text-2 {font-size: 1.25rem; margin: 36px 45px 0}
-.u-section-6 .u-image-1 {background-image: url("images/54e5d34a4950a914f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 538px; background-position: 50% 50%}
-.u-section-6 .u-image-2 {background-image: url("images/54e5d2454352aa14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 373px; background-position: 50% 50%}
-.u-section-6 .u-image-3 {min-height: 373px; background-image: url("images/57e6dd444b50ad14f6da8c7dda793678153bdee757596c48702678d5964acc50b0_1280.jpg"); background-position: 50% 50%}
+.u-section-6 .u-image-1 {background-image: url("images/uploaded/54e5d34a4950a914f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 538px; background-position: 50% 50%}
+.u-section-6 .u-image-2 {background-image: url("images/uploaded/54e5d2454352aa14f6da8c7dda793678153bdee757596c48702678d5964acd5dba_1280.jpg"); min-height: 373px; background-position: 50% 50%}
+.u-section-6 .u-image-3 {min-height: 373px; background-image: url("images/uploaded/57e6dd444b50ad14f6da8c7dda793678153bdee757596c48702678d5964acc50b0_1280.jpg"); background-position: 50% 50%}
 .u-section-6 .u-container-layout-6 {padding-right: 0} 
 
 @media (max-width: 1199px){ .u-section-6 .u-sheet-1 {min-height: 952px}
